@@ -28,3 +28,7 @@ Project Link:https://polite-hill-0c4944f10.1.azurestaticapps.net/
 
 # Sample images of the project :
 
+![1](https://user-images.githubusercontent.com/95544898/169799452-fbb93814-7bba-41d6-bc0d-537c4bfd2f94.png)
+![2](https://user-images.githubusercontent.com/95544898/169799449-6263f13d-9eed-4f9a-a225-9d2f8cd34c32.png)
+![3](https://user-images.githubusercontent.com/95544898/169799437-568cacdd-a27c-42bf-818d-a9be77953894.png)
+
